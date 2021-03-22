@@ -1,9 +1,9 @@
 Package: org.coolstar.sileo
 Priority: optional
 Section: Packaging
-Maintainer: CoolStar <coolstarorganization@gmail.com>
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Architecture: iphoneos-arm
-Version: 2.0.2+e2
+Version: 2.0.2+e3
 Icon: https://getsileo.app/img/icon.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 Depends: apt (>= 1.8.0), libapt (>= 1.8.2.2), libapt-pkg5.0 (>=1.8.2.2), apt-key (>= 1.8.0), dpkg (>= 1.19.2-4), zsh | bash, cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils
